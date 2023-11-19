@@ -1,0 +1,9 @@
+{
+    "Lua.diagnostics.globals": [
+        "import",
+        "playdate"
+    ],
+    "Lua.workspace.library": [
+        "${env:PLAYDATE_SDK_PATH}/CoreLibs"
+    ]
+}
